@@ -75,7 +75,7 @@ Passionate about building smart AI solutions, modern web applications, and innov
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-link" target="blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/faiza-faisal-1303942b6/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -83,7 +83,7 @@ Passionate about building smart AI solutions, modern web applications, and innov
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:faizafaysalgenda@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
