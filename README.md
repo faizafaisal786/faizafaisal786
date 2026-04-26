@@ -16,7 +16,7 @@ Passionate about building smart AI solutions, modern web applications, and innov
 - 💡 Building smart projects with **Python + AI + Web Development**
 - 🏆 Goal: Win top-level AI Project Competitions
 - 💬 Ask me about **Web Development, AI Agents, Python**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **faizafaysalgenda@gmail.com**
 - ⚡ Fun fact: I turn ideas into real projects 🚀
 
 ---
