@@ -1,8 +1,5 @@
-<div align="center">
-
-# 👋 Hi, I'm Faiza Faisal
-
-### 🚀 AI + Web Developer | Future Software Engineer | Building Smart AI Projects</h3>
+<h1 align="center">Hi 👋, I'm Faiza Faisal</h1>
+<h3 align="center">🚀 AI + Web Developer | Future Software Engineer | Building Smart AI Projects</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%2B+Web+Developer;React+%7C+Python+%7C+FastAPI+%7C+OpenAI;Building+Smart+AI+Projects;Future+Software+Engineer+%F0%9F%94%A5" />
