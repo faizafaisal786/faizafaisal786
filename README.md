@@ -83,7 +83,7 @@ Passionate about building smart AI solutions, modern web applications, and innov
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://gmail.com/faizafaysalgenda@gmail.com">
+<a href="faizafaysalgenda@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
