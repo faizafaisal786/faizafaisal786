@@ -1,105 +1,114 @@
 <h1 align="center">Hi 👋, I'm Faiza Faisal</h1>
-<h3 align="center">🚀 AI Developer | Web Developer | Future Software Engineer</h3>
+<h3 align="center">🚀 AI + Web Developer | Future Software Engineer | Building Smart AI Projects</h3>
 
 <p align="center">
-Passionate about building smart AI solutions, modern web applications, and innovative projects using the latest technologies.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%2B+Web+Developer;React+%7C+Python+%7C+FastAPI+%7C+OpenAI;Building+Smart+AI+Projects;Future+Software+Engineer+%F0%9F%94%A5" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working on **AI Multi-Agent Systems**
-- 🌱 Learning **OpenAI SDK, Agentic AI, FastAPI, React**
-- 💡 Building smart projects with **Python + AI + Web Development**
-- 🏆 Goal: Win top-level AI Project Competitions
-- 💬 Ask me about **Web Development, AI Agents, Python**
-- 📫 Reach me at: **faizafaysalgenda@gmail.com**
-- ⚡ Fun fact: I turn ideas into real projects 🚀
+- 🔭 I’m currently working on **AI-Powered Projects**
+- 🌱 I’m learning **Agentic AI + OpenAI SDK + FastAPI**
+- 💡 Passionate about **AI Automation + Web Development**
+- 🚀 Building projects for **Hackathons & Competitions**
+- 🎯 Goal: Become a **Top AI Engineer + Web Developer**
+- 💬 Ask me about **React, Python, AI Agents**
+- ⚡ Fun fact: **I believe consistency beats talent**
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 🌐 Frontend
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi" />
+### ⚙ Backend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
 </p>
 
-### 🤖 AI / Tools
-<p>
+### 🤖 AI + Tools
+<p align="left">
 <img src="https://skillicons.dev/icons?i=github,vscode,git,firebase,mongodb" />
 </p>
+
+- OpenAI SDK
+- AI Agents
+- Prompt Engineering
+- Automation Systems
 
 ---
 
 ## 🔥 Featured Projects
 
-### ✨ AI Travel Website
-> Smart travel planning platform with AI-powered recommendations
+### ✈ AI Travel Website
+> Smart travel planning platform using AI Agent system
 
 ### 🤖 Multi-Agent AI System
-> AI agents working together for smart automation tasks
+> Intelligent AI agents working together for task automation
 
 ### 💼 AI Career Coach Agent
 > Resume analysis + LinkedIn optimization + Interview preparation
 
-### 🌍 Modern Responsive Websites
-> Professional frontend projects using React + Tailwind
+### 🏢 AI Company Project
+> Business workflow automation using AI-powered solutions
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=faizafaisal786&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faizafaisal786&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizafaisal786&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizafaisal786&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizafaisal786&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizafaisal786&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faizafaisal786&theme=algolia&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🌍 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/faiza-faisal-1303942b6/?skipRedirect=true" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://github.com/faizafaisal786" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="faizafaysalgenda@gmail.com">
+<a href="faizafaysalgenda@gmail.com" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
+
+<a href="https://faiza-portfolio-chi.vercel.app/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=devto" height="40" />
+</a>
 </p>
 
 ---
 
-## 🏆 2026 Goals
+## 💖 Profile Views
 
-- 🚀 Build Prize-Winning AI Projects
-- 💼 Get Professional Internship Opportunities
-- 🌍 Create Real-World SaaS Products
-- 🤖 Master Agentic AI + OpenAI SDK
-- 🔥 Become Industry-Level AI Engineer
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=faizafaisal786&label=Profile%20views&color=0e75b6&style=flat" alt="faizafaisal786" />
+</p>
 
 ---
 
-<p align="center">
-✨ "Code. Create. Innovate. Repeat." ✨
-</p>
+<h3 align="center">🔥 “Code. Build. Improve. Repeat.” 🔥</h3>
