@@ -61,7 +61,7 @@ I specialize in turning AI + Business ideas into practical, real-world solutions
 
 - **LinkedIn:** [faiza-faisal-1303942b6](https://www.linkedin.com/in/faiza-faisal-1303942b6/)
 - **Email:** faizafaysalgenda@gmail.com
-- **Portfolio:** [Coming Soon / Add your live portfolio link]
+- **Portfolio:** [https://faiza-faisal-portfolio-new.vercel.app/]
 
 ---
 
