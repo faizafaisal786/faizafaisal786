@@ -1,114 +1,68 @@
-<h1 align="center">Hi 👋, I'm Faiza Faisal</h1>
-<h3 align="center">🚀 AI + Web Developer | Future Software Engineer | Building Smart AI Projects</h3>
+# Hi, I'm Faiza Faisal 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%2B+Web+Developer;React+%7C+Python+%7C+FastAPI+%7C+OpenAI;Building+Smart+AI+Projects;Future+Software+Engineer+%F0%9F%94%A5" />
-</p>
+### AI Engineer · Agentic AI & Automation · Full-Stack Developer
 
----
+> **Not just a Developer... I Build AI-Powered Business Solutions**
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-## 👩‍💻 About Me
-
-- 🔭 I’m currently working on **AI-Powered Projects**
-- 🌱 I’m learning **Agentic AI + OpenAI SDK + FastAPI**
-- 💡 Passionate about **AI Automation + Web Development**
-- 🚀 Building projects for **Hackathons & Competitions**
-- 🎯 Goal: Become a **Top AI Engineer + Web Developer**
-- 💬 Ask me about **React, Python, AI Agents**
-- ⚡ Fun fact: **I believe consistency beats talent**
+I specialize in turning AI + Business ideas into practical, real-world solutions using **Agentic AI**, Multi-Agent Systems, RAG, and modern full-stack technologies.
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 What I Do
 
-### 🌐 Frontend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-### ⚙ Backend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
-</p>
-
-### 🤖 AI + Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=github,vscode,git,firebase,mongodb" />
-</p>
-
-- OpenAI SDK
-- AI Agents
-- Prompt Engineering
-- Automation Systems
+- **Agentic AI & Multi-Agent Systems** — Designing intelligent AI workers, tool-calling agents, and autonomous workflows
+- **AI Automation** — Building systems that solve real business problems (lead gen, service matching, workflow automation)
+- **Full-Stack Development** — React, Next.js, TypeScript, FastAPI, Python
+- **Business + Tech Bridge** — Combining technical skills with lead research, market understanding & growth strategies
 
 ---
 
-## 🔥 Featured Projects
+### 🛠️ Tech Stack
 
-### ✈ AI Travel Website
-> Smart travel planning platform using AI Agent system
+**AI & Agentic Systems**  
+`Multi-Agent Systems` `RAG` `Tool Calling` `MCP` `AI Workers` `Prompt Engineering` `OpenAI` `Gemini`
 
-### 🤖 Multi-Agent AI System
-> Intelligent AI agents working together for task automation
+**Full-Stack**  
+`Python` `FastAPI` `React` `Next.js` `TypeScript` `Tailwind CSS` `Docker`
 
-### 💼 AI Career Coach Agent
-> Resume analysis + LinkedIn optimization + Interview preparation
-
-### 🏢 AI Company Project
-> Business workflow automation using AI-powered solutions
+**Others**  
+`Kubernetes` `Git` `CI/CD` `REST APIs`
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizafaisal786&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizafaisal786&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizafaisal786&layout=compact&theme=tokyonight" />
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| **AwaamFlow** | Multi-agent system with dialect resilience, self-healing loop & USSD fallback for low-connectivity regions | FastAPI, Next.js, Multi-Agent |
+| **Khidmat AI Assistant** | Service-oriented multi-agent assistant for handling real user tasks | Agentic AI, Tool Calling |
+| **RAG-Powered Chatbot** | Context-aware conversational platform using Retrieval-Augmented Generation | FastAPI, RAG, LLM |
+| **AI Company** | Business workflow automation using AI-powered solutions | Full-Stack + AI |
 
 ---
 
-## 🏆 GitHub Trophies
+### 📈 Current Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizafaisal786&theme=algolia&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/faiza-faisal-1303942b6/?skipRedirect=true" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="faizafaysalgenda@gmail.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-<a href="https://faiza-portfolio-chi.vercel.app/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=devto" height="40" />
-</a>
-</p>
+- Building production-ready **Agentic AI systems**
+- Exploring **AI Workers / Digital FTEs** and human-supervised agents
+- Creating AI solutions that solve real business & social problems
 
 ---
 
-## 💖 Profile Views
+### 🌱 Learning Journey
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=faizafaisal786&label=Profile%20views&color=0e75b6&style=flat" alt="faizafaisal786" />
-</p>
+- **The AI Agent Factory** — Panaversity (Spec-driven development, AI Workers, AI-native workflows)
+- **GIAIC** — AI Engineering, Agentic AI & Full-Stack Development
+- **AI Seekho** — Artificial Intelligence Training Program
 
 ---
 
-<h3 align="center">🔥 “Code. Build. Improve. Repeat.” 🔥</h3>
+### 📫 Let's Connect
+
+- **LinkedIn:** [faiza-faisal-1303942b6](https://www.linkedin.com/in/faiza-faisal-1303942b6/)
+- **Email:** faizafaysalgenda@gmail.com
+- **Portfolio:** [Coming Soon / Add your live portfolio link]
+
+---
+
+⭐️ From [faizafaisal786](https://github.com/faizafaisal786)
