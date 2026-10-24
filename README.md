@@ -1,13 +1,21 @@
-# Hi, I'm Faiza Faisal 👋
+<h1 align="center">Hi 👋, I'm Faiza Faisal</h1>
 
-### 🚀 AI Engineer | Agentic AI & Automation | Full-Stack Developer
+<h3 align="center">🚀 AI Engineer | Agentic AI & Automation | Full-Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%2B+Web+Developer;React+%7C+Python+%7C+FastAPI+%7C+OpenAI;Building+Smart+AI+Projects;Future+Software+Engineer+%F0%9F%94%A5" />
+</p>
+
+---
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 > **Turning AI + Business Ideas into Real Solutions**  
 > *Build • Automate • Grow*
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I'm an **AI Engineer and Full-Stack Developer** focused on building **Agentic AI systems**, multi-agent architectures, RAG-powered assistants, and modern web applications that solve real business problems.
 
@@ -21,7 +29,7 @@ I combine deep technical skills with business growth experience — helping turn
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 **Agentic AI & LLMs**  
 `Multi-Agent Systems` `AI Workers` `Tool Calling` `RAG` `Prompt Engineering` `MCP` `Human-in-the-Loop`
