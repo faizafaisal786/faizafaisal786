@@ -124,13 +124,3 @@ I combine deep technical skills with hands-on business growth experience — hel
 ```text
 Technical Skills → AI/Automation Expertise → Business Problem Understanding 
 → Client/Lead Research → Solution Building → LinkedIn Audience → Client Opportunities
-
-Ideas + Technology = Impact🌍 Let's Connect
-
-
-  
-
-
-
-  🔥 “Code. Build. Improve. Repeat.” 🔥
-  Same Vision • Bigger Goals
